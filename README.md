@@ -31,7 +31,7 @@ Para visualizar o projeto, você precisará de um navegador web moderno, como:
 
 ## Autor
 
-Este projeto foi desenvolvido por [Matheus de Oliveira][def] (https://www.linkedin.com/in/matheus-oliveira-9692a72ba/)
+Este projeto foi desenvolvido por [Matheus de Oliveira](https://www.linkedin.com/in/matheus-oliveira-9692a72ba/)
 
 ## Contribuição
 
