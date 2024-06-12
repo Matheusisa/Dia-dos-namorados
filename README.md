@@ -4,7 +4,7 @@ Este é um simples projeto HTML que celebra o Dia dos Namorados. Ele apresenta u
 
 ## Visualização
 
-Você pode visualizar o projeto [clicando aqui][def] (insira o link para o seu site hospedado, se aplicável).
+Você pode visualizar o projeto [clicando aqui][def] ([insira o link para o seu site hospedado, se aplicável](https://dia-dos-namorados-aks9.vercel.app/)).
 
 ## Conteúdo
 
